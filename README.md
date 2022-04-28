@@ -1,6 +1,6 @@
 # rostime_print
 
-print simulation time on terminator when playig bag
+print simulation time on terminator when playing bag
 
 - put files in workspace/src && cd workspace
 - catkin_make
